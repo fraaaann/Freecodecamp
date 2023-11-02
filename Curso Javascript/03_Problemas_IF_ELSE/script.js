@@ -27,6 +27,13 @@ Si la temperatura es mayor o igual a 25, imprime "Hace calor". Utiliza declaraci
 */
 let temperatura = 21;
 
+if (temp < 0){
+    console.log("hace frio")
+} else if (){
+    
+}
+    
+
 
 
 
