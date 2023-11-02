@@ -18,14 +18,18 @@ if(edad >= 18){
 
 
 /*
-
-
 Problema 2: Crea una variable llamada temperatura que almacene la temperatura actual en grados Celsius.
 Escribe un programa en JavaScript que muestre un mensaje de acuerdo a la temperatura:
 
 Si la temperatura es menor a 0, imprime "Hace frío".
 Si la temperatura está entre 0 y 25, imprime "La temperatura es agradable".
 Si la temperatura es mayor o igual a 25, imprime "Hace calor". Utiliza declaraciones "if-else" para resolver este problema.
+*/
+}let temperatura =
+
+
+
+
 
 Problema 3: Crea una variable llamada nombreUsuario y otra llamada contraseña que almacene 
 un nombre de usuario y una contraseña, respectivamente. Escribe un programa en JavaScript que verifique si el nombre de usuario
