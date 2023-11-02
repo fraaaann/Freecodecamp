@@ -25,7 +25,9 @@ Si la temperatura es menor a 0, imprime "Hace frío".
 Si la temperatura está entre 0 y 25, imprime "La temperatura es agradable".
 Si la temperatura es mayor o igual a 25, imprime "Hace calor". Utiliza declaraciones "if-else" para resolver este problema.
 */
-}let temperatura =
+let temperatura = 21;
+
+
 
 
 
